@@ -1,4 +1,5 @@
 body {
+    background: #1e1f2d;
     color: #333;
     font-family: Arial;
     font-size: 16px;
@@ -31,4 +32,14 @@ body {
     padding: 0 0 0 1cm;
     font-weight: hold;
     font-size: normal;
+}
+
+#post{
+    background: white;
+    padding: 1em;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
